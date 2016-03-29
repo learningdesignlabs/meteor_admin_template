@@ -1,1 +1,0 @@
-# meteor_admin_template
